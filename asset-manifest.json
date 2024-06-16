@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.cf3aed0c.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/SuryaRajendran.jpeg": "/static/media/SuryaRajendran.8036928ba759429ac361.jpeg",
+    "static/media/venbaInfotech.png": "/static/media/venbaInfotech.258b8345ff557c5ff821.png",
+    "static/media/cavintek.png": "/static/media/cavintek.be4df1d5630fa8ddbfa2.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.cf3aed0c.js.map": "/static/js/main.cf3aed0c.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.cf3aed0c.js"
+  ]
+}
